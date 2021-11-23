@@ -1,0 +1,10 @@
+REMARK   Materials Studio PDB file
+REMARK   Created:  Tue Nov 23 08:02:51 대한민국 표준시 2021
+ATOM      1 AG   UNK A   1       0.007   3.390   0.000  1.00  0.00          Ag1+  
+ATOM      2 AG   UNK A   1      -1.477   0.861   0.000  1.00  0.00          Ag1+  
+ATOM      3 AG   UNK A   1       1.455   0.841   0.000  1.00  0.00          Ag1+  
+ATOM      4 AG   UNK A   1      -2.960  -1.667   0.000  1.00  0.00          Ag1+  
+ATOM      5 AG   UNK A   1      -0.029  -1.688   0.000  1.00  0.00          Ag1+  
+ATOM      6 AG   UNK A   1       2.903  -1.709   0.000  1.00  0.00          Ag1+  
+ATOM      7 Na   MOL     2      -0.005   0.163   2.600  1.00  0.00          Na1+  
+TER       8 

@@ -1,0 +1,16 @@
+REMARK   Materials Studio PDB file
+REMARK   Created:  Tue Nov 23 08:07:39 대한민국 표준시 2021
+ATOM      1 Ag1  MOL     1       0.007   3.390   0.000  1.00  0.00          Ag1+  
+ATOM      2 Ag2  MOL     1      -1.477   0.861   0.000  1.00  0.00          Ag1+  
+ATOM      3 Ag3  MOL     1       1.455   0.841   0.000  1.00  0.00          Ag1+  
+ATOM      4 Ag4  MOL     1      -2.960  -1.667   0.000  1.00  0.00          Ag1+  
+ATOM      5 Ag5  MOL     1      -0.029  -1.688   0.000  1.00  0.00          Ag1+  
+ATOM      6 Ag6  MOL     1       2.903  -1.709   0.000  1.00  0.00          Ag1+  
+ATOM      7  H7  MOL     1       0.007   0.068   2.531  1.00  0.00           H    
+ATOM      8  H8  MOL     1       0.011   0.997   3.746  1.00  0.00           H    
+ATOM      9  O9  MOL     1       0.008   0.059   3.500  1.00  0.00           O    
+TER      10 
+CONECT    7    9
+CONECT    8    9
+CONECT    9    7    8
+END
